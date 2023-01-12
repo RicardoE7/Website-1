@@ -1,1 +1,1 @@
-# website-1
+This will be my first website that I build without the guidance of a work along tutorial. The task was assigned by The Odin Project. I was simply given a picture (which will be attached in the images folder) to emulate. Instructions for the assignment permitted me to add my own pictures and text content. I'll be adding these probably be adding these things further down the line. For now I just wanted to get my site as close to the picture as possible.
